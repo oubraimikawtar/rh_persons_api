@@ -1,0 +1,39 @@
+[
+    {
+        "mat_perso": "2",
+        "cin_perso": null,
+        "nom_perso": "AGOURRAM",
+        "prenom_perso": "FARID",
+        "tel_perso": null,
+        "datenaiss_perso": "3/27/1979",
+        "adresse1_perso": "Ait Amadghous  Ikaddar",
+        "sexe_perso": "M",
+        "cnss_perso": null,
+        "rib_perso": null,
+        "fonction_perso": "Production Manager",
+        "equipe_perso": "OPERATION MANAGMENT",
+        "datEmb_perso": "2016-07-01",
+        "etat_perso": "A",
+        "typefonction_perso": "",
+        "e": "AGOURRAM@2"
+    },
+    {
+        "mat_perso": "25",
+        "cin_perso": null,
+        "nom_perso": "FRIKECH",
+        "prenom_perso": "HANANE",
+        "tel_perso": null,
+        "datenaiss_perso": "3/15/1990",
+        "adresse1_perso": "DR Laanabssa Lalla Mimouna",
+        "sexe_perso": "F",
+        "cnss_perso": null,
+        "rib_perso": null,
+        "fonction_perso": "Quality officer",
+        "equipe_perso": "QUALITY",
+        "datEmb_perso": "2016-06-01",
+        "etat_perso": "A",
+        "typefonction_perso": "Admin",
+        "e": "FRIKECH@25"
+    }
+]
+
