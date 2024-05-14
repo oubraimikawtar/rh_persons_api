@@ -34,6 +34,22 @@
         "etat_perso": "A",
         "typefonction_perso": "Admin",
         "e": "FRIKECH@25"
-    }
+    },
+    {  "mat_perso":"147",
+        "cin_perso":null,
+        "nom_perso":"Hamdouch",
+        "prenom_perso":"Amal",
+        "tel_perso":null,
+        "datenaiss_perso":"5/21/1991",
+        "adresse1_perso":"Av okba bno nafie nr 181",
+        "sexe_perso":"F",
+        "cnss_perso":null,
+        "rib_perso":null,
+        "fonction_perso":"Procurrement Cordinator",
+        "equipe_perso":"PROCURMENT",
+        "datEmb_perso":"2020-02-21",
+        "etat_perso":"A",
+        "typefonction_perso":"",
+        "e":"Hamdouch@147"}
 ]
 
