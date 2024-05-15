@@ -1,0 +1,30 @@
+[
+  {
+    "ref_pointage": 29232,
+    "cbarre_pointage": 108727,
+    "time_pointage": "4/3/2023 1:14:25 PM",
+    "inouT_pointage": 0,
+    "pointeur": "192.168.1.202",
+    "date_pointage": "4/3/2023",
+    "verger_pointage": 6,
+    "matricule_pointage": 108727,
+    "datesynchro_pointage": "4/3/2023 11:22:30 PM",
+    "tag_pointage": null,
+    "user_pointage": null,
+    "mode_pointage": "F"
+  },
+  {
+    "ref_pointage": 29233,
+    "cbarre_pointage": 108727,
+    "time_pointage": "4/3/2023 1:30:15 PM",
+    "inouT_pointage": 0,
+    "pointeur": "192.168.1.202",
+    "date_pointage": "4/3/2023",
+    "verger_pointage": 6,
+    "matricule_pointage": 108727,
+    "datesynchro_pointage": "4/3/2023 11:36:32 PM",
+    "tag_pointage": null,
+    "user_pointage": null,
+    "mode_pointage": "P"
+  }
+]
