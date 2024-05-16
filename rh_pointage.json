@@ -26,5 +26,47 @@
     "tag_pointage": null,
     "user_pointage": null,
     "mode_pointage": "P"
+  },
+  {
+    "ref_pointage": 29294,
+    "cbarre_pointage": 147,
+    "time_pointage": "9/27/2023 10:54:30 AM",
+    "inouT_pointage": 0,
+    "pointeur": "192.168.2.228",
+    "date_pointage": "9/27/2023",
+    "verger_pointage": 8,
+    "matricule_pointage": 147,
+    "datesynchro_pointage": "10/3/2023 10:16:55 AM",
+    "tag_pointage": null,
+    "user_pointage": null,
+    "mode_pointage": "P"
+  },
+ {
+    "ref_pointage": 29321,
+    "cbarre_pointage": 147,
+    "time_pointage": "10/2/2023 7:20:33 AM",
+    "inouT_pointage": 0,
+    "pointeur": "192.168.2.228",
+    "date_pointage": "10/2/2023",
+    "verger_pointage": 8,
+    "matricule_pointage": 147,
+    "datesynchro_pointage": "10/3/2023 10:16:55 AM",
+    "tag_pointage": null,
+    "user_pointage": null,
+    "mode_pointage": "P"
+  },
+{
+    "ref_pointage": 29342,
+    "cbarre_pointage": 147,
+    "time_pointage": "10/3/2023 9:03:11 AM",
+    "inouT_pointage": 0,
+    "pointeur": "192.168.2.228",
+    "date_pointage": "10/3/2023",
+    "verger_pointage": 8,
+    "matricule_pointage": 147,
+    "datesynchro_pointage": "10/3/2023 10:16:55 AM",
+    "tag_pointage": null,
+    "user_pointage": null,
+    "mode_pointage": "P"
   }
 ]
