@@ -28,5 +28,35 @@
         "dcreation_mission": "3/15/2024 3:41:14 PM",
         "valide_mission": null,
         "grad_mission": "1"
+    },
+    {
+        "ref_mission": 50,
+        "mat_mission": 98,
+        "depart_mission": "Rabat",
+        "destination_mission": "SIAM",
+        "date_dep_mission": "4/25/2024",
+        "date_retour_mission": "4/25/2024",
+        "motif_mission": "Visite Professionnelle",
+        "etat_mission": "CRE",
+        "visa_validation_mission": null,
+        "dvalidation_mission": null,
+        "dcreation_mission": "4/26/2024 10:43:09 AM",
+        "valide_mission": null,
+        "grad_mission": "1"
+    },
+     {
+        "ref_mission": 51,
+        "mat_mission": 17,
+        "depart_mission": "Seferou",
+        "destination_mission": "agadir",
+        "date_dep_mission": "5/1/2024",
+        "date_retour_mission": "5/7/2024",
+        "motif_mission": "jjj",
+        "etat_mission": "CRE",
+        "visa_validation_mission": null,
+        "dvalidation_mission": null,
+        "dcreation_mission": "5/5/2024 10:52:07 PM",
+        "valide_mission": null,
+        "grad_mission": "1"
     }
 ]
