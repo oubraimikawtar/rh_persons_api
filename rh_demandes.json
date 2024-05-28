@@ -14,21 +14,6 @@
         "valide_dem": null,
         "grad_dem": "1"
     },
-  {
-        "mat_dem": "154",
-        "ref_dem": "223",
-        "type_dem": "Conge normal",
-        "date_du_dem": "4/12/2024 12:00:00 AM",
-        "date_au_dem": "4/13/2024 12:00:00 AM",
-        "dcreation_dem": "4/9/2024 1:58:27 PM",
-        "visa_validation_dem": "25",
-        "dvalidation_dem": "5/8/2024 3:40:02 PM",
-        "etat_dem": "CRE",
-        "remarque_dem": null,
-        "nbr_jours_dem": "1",
-        "valide_dem": null,
-        "grad_dem": "2"
-  },
      {
         "mat_dem": "12769",
         "ref_dem": "225",
@@ -105,18 +90,49 @@
         "grad_dem": "3"
     },
     {
-        "mat_dem": "147",
-        "ref_dem": "219",
-        "type_dem": "Autorisation retard",
-        "date_du_dem": "3/20/2024 3:30:00 PM",
-        "date_au_dem": "3/20/2024 2:00:00 PM",
-        "dcreation_dem": "3/20/2024 2:51:47 PM",
-        "visa_validation_dem": null,
-        "dvalidation_dem": null,
-        "etat_dem": "CRE",
-        "remarque_dem": "dentist",
+        "mat_dem": "193",
+        "ref_dem": "226",
+        "type_dem": "Autorisation absence",
+        "date_du_dem": "4/12/2024 5:30:00 PM",
+        "date_au_dem": "4/12/2024 3:30:00 PM",
+        "dcreation_dem": "4/12/2024 12:57:32 PM",
+        "visa_validation_dem": "12905",
+        "dvalidation_dem": "4/17/2024 5:19:58 PM",
+        "etat_dem": "ACC",
+        "remarque_dem": "Early leave",
         "nbr_jours_dem": null,
         "valide_dem": null,
-        "grad_dem": "1"
-    }
+        "grad_dem": "3"
+    },
+     {
+        "mat_dem": "151",
+        "ref_dem": "217",
+        "type_dem": "Autorisation absence",
+        "date_du_dem": "3/5/2024 5:30:00 PM",
+        "date_au_dem": "3/5/2024 11:00:00 AM",
+        "dcreation_dem": "3/18/2024 12:00:26 PM",
+        "visa_validation_dem": "12905",
+        "dvalidation_dem": "3/20/2024 3:21:52 PM",
+        "etat_dem": "ACC",
+        "remarque_dem": "Medical Check Up",
+        "nbr_jours_dem": null,
+        "valide_dem": null,
+        "grad_dem": "3"
+    },
+    {
+        "mat_dem": "212",
+        "ref_dem": "227",
+        "type_dem": "Conge normal",
+        "date_du_dem": "4/12/2024 12:00:00 AM",
+        "date_au_dem": "4/13/2024 12:00:00 AM",
+        "dcreation_dem": "4/15/2024 9:03:35 AM",
+        "visa_validation_dem": "12905",
+        "dvalidation_dem": "4/17/2024 5:20:04 PM",
+        "etat_dem": "ACC",
+        "remarque_dem": null,
+        "nbr_jours_dem": "1",
+        "valide_dem": null,
+        "grad_dem": "3"
+    },
+    
 ]
