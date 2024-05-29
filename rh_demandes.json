@@ -148,5 +148,20 @@
         "nbr_jours_dem": null,
         "valide_dem": null,
         "grad_dem": "1"
+    },
+    {
+        "mat_dem": "193",
+        "ref_dem": "236",
+        "type_dem": "Autorisation absence",
+        "date_du_dem": "2024-04-25 13:00:00 AM",
+        "date_au_dem": "2024-04-25 09:00:00 AM",
+        "dcreation_dem": "2024-04-26 17:11:13 AM",
+        "visa_validation_dem": null,
+        "dvalidation_dem": null,
+        "etat_dem": "CRE",
+        "remarque_dem": "Contrôle médical" ,
+        "nbr_jours_dem": null,
+        "valide_dem": null,
+        "grad_dem": "1"
     }
 ]
